@@ -1,4 +1,4 @@
-# 🔄 Unit Converter
+# 🔄 Unit Convertor
 
 A Google-like Unit Converter built using **Python** and **Streamlit**. This web app allows users to quickly and accurately convert units across multiple categories, such as **Length, Weight, Temperature, Liquid, Time, and Area**.
 
